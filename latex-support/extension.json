@@ -1,0 +1,17 @@
+{
+  "id": "latex-support",
+  "name": "LaTeX Support",
+  "version": "1.1.0",
+  "description": "Renders LaTeX formulas in your notes using KaTeX with configurable options.",
+  "entry": "index.js",
+  "apiVersion": 2,
+  "category": "Productivity",
+  "icon": "math",
+  "permissions": [
+    "ui:toolbar",
+    "editor:read",
+    "editor:write",
+    "settings",
+    "events"
+  ]
+}

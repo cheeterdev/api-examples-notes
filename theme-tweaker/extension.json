@@ -1,0 +1,16 @@
+{
+  "id": "theme-tweaker",
+  "name": "Theme Tweaker",
+  "version": "1.1.0",
+  "description": "Customizes the editor colors, accent color, and font size.",
+  "entry": "index.js",
+  "apiVersion": 2,
+  "category": "Appearance",
+  "icon": "palette",
+  "permissions": [
+    "ui:toolbar",
+    "theme",
+    "events",
+    "settings"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "tabs",
+  "name": "Tabs",
+  "version": "1.0.0",
+  "description": "Adds optional browser-style note tabs above each editor pane.",
+  "entry": "index.js",
+  "apiVersion": 2,
+  "category": "Productivity",
+  "icon": "tabs",
+  "permissions": [
+    "ui:toolbar",
+    "ui:editor-overlay",
+    "notes:read",
+    "workspace:navigate",
+    "events",
+    "storage",
+    "settings"
+  ]
+}
